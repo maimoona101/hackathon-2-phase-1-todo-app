@@ -47,3 +47,4 @@ Each task has:
 - Title: Required task title (1-500 characters)
 - Description: Optional task description
 - Status: Boolean indicating completion status
+
